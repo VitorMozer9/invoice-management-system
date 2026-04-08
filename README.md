@@ -26,7 +26,7 @@ O projeto segue os princípios de **Clean Architecture** e **SOLID**, dividido e
 ## 📦 Estrutura do Projeto
 
 ```
-Korp_Teste_SeuNome/
+invoice-management-system/
 ├── services/
 │   ├── stock/       # Microsserviço de Estoque
 │   └── billing/     # Microsserviço de Faturamento
